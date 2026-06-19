@@ -88,9 +88,7 @@ model routing & cost optimization · human-in-the-loop design · HR / Total Rewa
 ---
 
 ### Notes
-
-This is the focus of the next decade of my career. Always glad to compare notes with people
-building agentic HR, AI for people operations, or the governance layer that makes autonomous
+Always glad to compare notes with people building agentic HR, AI for people operations, or the governance layer that makes autonomous
 agents safe inside a real company.
 
 <!-- Add a public contact link here only if you want one. -->
