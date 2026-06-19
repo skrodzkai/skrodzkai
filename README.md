@@ -46,6 +46,7 @@ and hard limits — and a human owns every consequential decision.
 | Performance | drafts reviews, surfaces calibration gaps | ratings & promotions |
 | Policy & employee Q&A | answers from policy, escalates the edge cases | the policy itself |
 | Compliance & audit | watches every action, keeps the record | the risk posture |
+| People analytics & reporting | compiles operating reports, flags risks, ties metrics to action | the decision, and what's published |
 
 All of it on one operating system: every agent **onboarded, budgeted, audited, reviewed,
 and human-gated** — and the fleet **improves itself** through controlled experiments a human
