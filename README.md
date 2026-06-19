@@ -1,10 +1,3 @@
-<!--
-  This is your GitHub PROFILE README.
-  It belongs in a repo named exactly:  skrodzkai/skrodzkai
-  GitHub renders it at the top of github.com/skrodzkai automatically.
-  Everything here is generic + safe to publish. Edit freely before pushing.
--->
-
 <h1 align="center">Joe Skrodzki</h1>
 
 <p align="center">
